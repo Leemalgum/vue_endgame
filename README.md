@@ -5,7 +5,7 @@
 <div>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=#339933&logoColor=white"/>
 <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=#CB3837&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=#47A248&logoColor=white"/>=
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=#47A248&logoColor=white"/>
 </div>
 
 ### 💬Details
